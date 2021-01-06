@@ -1,0 +1,19 @@
+{
+  "name": "reseptigeneraattori",
+  "version": "1.0.0",
+  "description": "Scrape recipe sites for meal recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webscraping",
+    "recipe"
+  ],
+  "author": "Antti Eloranta",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jsdom": "^16.4.0"
+  }
+}
